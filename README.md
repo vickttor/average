@@ -12,12 +12,6 @@ Calculadora acadêmica feito em `Flutter` para obter nota média entre as ativid
   <img src="./.github/screenshots/preview03.png" alt="Preview 03" style="height: 500">
 </center>
 
-<style>
-  img {
-    border-radius: 8px;
-  }
-</style>
-
 ### Google Fonts
 
 - Poppins (300, 400, 500, 700, 900)
