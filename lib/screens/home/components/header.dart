@@ -11,7 +11,7 @@ class HomeHeader extends StatelessWidget {
       padding: const EdgeInsets.all(16.0),
       decoration: const BoxDecoration(
         gradient: LinearGradient(
-          colors: [Color(grey), Color(grey), Color(grey), Color(white)],
+          colors: [Color(grey), Color(grey), Color(white)],
           begin: Alignment.topCenter,
           end: Alignment.bottomCenter,
         ),
@@ -21,14 +21,15 @@ class HomeHeader extends StatelessWidget {
         crossAxisAlignment: CrossAxisAlignment.start,
         children: [
           // Title
-          const Text(
-            "Average",
+          Text(
+            "Average".toUpperCase(),
             textAlign: TextAlign.left,
-            style: TextStyle(
+            style: const TextStyle(
               color: Color(black),
               fontFamily: "Poppins",
               fontWeight: FontWeight.w900,
               fontSize: 24,
+              letterSpacing: 2.0,
             ),
           ),
           const SizedBox(height: 16.0),

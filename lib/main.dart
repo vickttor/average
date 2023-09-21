@@ -3,6 +3,9 @@ import 'package:average/screens/home/home.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 
+/// Author: Victor Hugo da Silva
+/// Finished At 20/09/2023 - 9:47 PM
+
 void main() {
   // Apply Transparent StatusBar
   SystemChrome.setSystemUIOverlayStyle(const SystemUiOverlayStyle(

@@ -1,16 +1,28 @@
-# academic_calculator
+# Average - Stateful Flutter Aplication
 
-A new Flutter project.
+### NP3 - TR7 - Calculadora acadêmica | Feito Por Victor Hugo da Silva.
 
-## Getting Started
+Calculadora acadêmica feito em `Flutter` para obter nota média entre as atividades. Aplicativo para ser entregue como atividade da matéria de Desenvolvimento Web & Mobile.
 
-This project is a starting point for a Flutter application.
+### Preview
 
-A few resources to get you started if this is your first Flutter project:
+<center>
+  <img src="./.github/screenshots/preview01.png" alt="Preview 01" style="height: 500">
+  <img src="./.github/screenshots/preview02.png" alt="Preview 02" style="height: 500">
+  <img src="./.github/screenshots/preview03.png" alt="Preview 03" style="height: 500">
+</center>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<style>
+  img {
+    border-radius: 8px;
+  }
+</style>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Google Fonts
+
+- Poppins (300, 400, 500, 700, 900)
+- Balsamiq Sans (400, 700)
+
+### Dependencies
+
+- <a href="https://pub.dev/packages/uuid" target="_blank">UUID</a>
